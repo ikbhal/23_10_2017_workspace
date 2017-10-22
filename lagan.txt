@@ -3,6 +3,7 @@ A.
 ->more fun, more engaging, and overall more effective
 ->focus on new developers
 
+-> coding in browser, video, gamifiation
 -> offers dozens of instructional courses, videos for developers 
 -> both online and mobile apps
 
@@ -16,3 +17,73 @@ A.
 In addition, the CEO says that when it came time to acquire a “learn-to-code” platform, they decided to seek out Code School because it was “more fun, more engaging, and overall more effective” than others in the space
 
 According to Pluralsight CEO Aaron Skonnard, Code School’s focus on new developers was part of the reason why it was interested in the property.
+
+codeschool
+founded: 2011, location: Orlando, FL, categories, wed development, education
+
+---
+gregg pollock
+https://www.youtube.com/watch?list=PLfBoZfyUGYQaZGok4uZtPHMw3PKtHfWY9&time_continue=6&v=X1jvuBV4Em8
+Gregg Pollack Founder's Talk - Part 3
+
+---
+railsenvy
+creating videos, podcast, presenting at  technology events.
+developing enterprise level technology using newest proven internet technologies
+
+Halogen guides
+Created cutting edge web application in ruby on rails
+Developed core technology for rapidly building and deploying guide websites
+
+---
+complex things seem not so complex
+hight quality product
+what is important
+---
+40k -> 5lakh -> 1million signups
+mobile application -> watch , rewatch  videos
+---
+Over 2013 and 2014 combined, Pluralsight has bought companies including PeepCode, Tekpub, TrainSignal, and Digital-Tutors. Combined, all its properties have just over 3 million users, the majority of them paying customers
+---
+Code School, a team of 39, will continue to operate from Orlando.
+“I’m most excited about joining Pluralsight because our vision and culture aligns so precisely,” says Pollack. “They have an amazing leadership team, a really bright future, and we’re all really excited to be a part of it.”
+---
+crunchboard
+---
+Much of the content in the new app is free, while those who subscribe to Code School’s premium product will be able to unlock all videos. The app, however, is meant to complement but not replace Code School’s online educational resource, which is where developers learn hands-on by coding in the browser while watching screencasts and other course videos.
+---
+A Community First, A Business Second
+
+The idea for Code School came about through Pollack’s own interest in creating educational content for developers, which he began doing around eight years ago. His focus at the time was the then still relatively new framework, Ruby on Rails. “As with any new technology in its infancy, the documentation sucked,” Pollack explains. “So I would blog about it. I got into podcasting; I would go and speak at conferences about it; I would create videos about it…it was just something I would do in my spare time,” he says.
+---
+blog, podcast, video, speak at conference
+---
+For his day job, Pollack consulted, eventually rebranding his consultancy to “Envy Labs” around five years ago. All the educational material he was publishing was attracting clients, but he wasn’t trying to turn that content into a money-making business of its own at that point, he says.
+---
+But in November 2010, Pollack released what soon became a popular course, “Rails for Zombies,” where he combined video content with coding in the browser for the first time. This was long before other online “learn to code” startups even existed — for instance, competitor Codecademy wasn’t founded until the following year
+---
+By March 2011, that business idea became Code School, launching with just one free Rails course and one paid. Today, the site has grown to include over 40 courses across a variety of topics and designed for a wide range of developers, from the newcomers looking to learn coding for the first time, to more advanced developers looking to refine or expand their skills
+
+---
+Now the company is working to reach an audience who is interested in learning while on the go with its new app. Though, obviously, the app doesn’t include the ability to code alongside the videos, it can serve as a way to reinforce what you previously learned while practicing on the web, familiarize yourself with new topics, or just brush up on rusty skills.
+---
+profitable since the beginning
+
+t may take six people three months to make just five hours of content, he notes. 
+What we’re creating is more like creating a video game than just a screencast,” he says
+---
+company claims customers including Accenture, Booz Allen Hamilton, Zendesk, and Fandango as using its product.
+---
+CodeSchool Technologies is the emerging and rapidly growing software development company. We have team of software engineers who are experts in their respective domains like Android, iOS, Java, Web development....
+
+---
+how to build it?
+write mockup of it on paper
+no videos, 
+no effects
+no images
+write few screens, pages
+less functionality
+no payments unless feature
+no login
+---
