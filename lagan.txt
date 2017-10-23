@@ -363,3 +363,64 @@ erlang performance lab
 ---
 what are you doing
 are you not working on product portfolio
+---
+lets create phaser hello world examples
+---
+html5 game devs
+---
+https://phaser.io/examples
+---
+https://phaser.io/tutorials/getting-started/part3
+--
+If you're not comfortable with github cloning, or setting up a local web server, you can run phaser in the cloud.
+
+More than a marketing buzzword, lots of developers like to build in the cloud so they can create, edit and share their content without having to install anything. Their files and code is available no matter which device they login from.
+
+There are several JavaScript online collaboration tools such as JSBin, codepen and JSFiddle. But these are more for quick tests of single scripts. For a complete development environment we recommend Cloud9. It allows you get up and running very quickly as you'll see:
+---
+fruits and vegetable as user avatar
+---
+back to interactive course
+technology of codestack
+---
+From what I can tell,
+
+Front end:
+HTML5, new tags such as <header> and <footer> but support for legacy browsers is carefully preserved
+Javascript, jQuery is used. The console itself is based on a jQuery plugin called jq-console (https://github.com/amasad/jq-con...)
+Processing input Javascript: It doesn't seem like they have a interpreter written from scratch but rather actually count on the browser's Javascript to interpret input and then capture the output.
+Determining whether input is correct: The page is loaded with an "excerciseData" variable which contains individual exercises with Javascript test cases that are run against the output from processing user input. So whether a question is correct is determined on the client side. After the user hits "enter" in the console a POST request is made containing the user input and whether it satisfied the particular excercise
+
+Back end:
+Rails running on nginx + varnish
+MongoDB for persistence
+Standard AJAX for client - server communication
+---
+Eric and Zach gave great overviews of the front-end and back-end used by Codecademy. I’ll shine some additional light on what technology and software the company is using internally.Codecademy Technology stack includes: Adobe Flash, Babel, Elasticsearch, Filestack, GitHub, JavaScript, MongoDB, React.js, Redis, Ruby, Ruby on Rails, Amazon (CloudFront, EC2, Route 53, and S3), Chef, Gandi SSl, Go, HAProxy, Nagios, New Relic, nginx, Scalyr.
+
+Additionally, here’s a list of other software products that Codecademy is using internally:
+
+Marketing: Customer.io, Google Apps for Work, Mailgun, Segment
+Sales and Support: Qualaroo, Zendesk
+Analytics: Google Analytics, Mixpanel
+HR: AngelList Jobs, HireArt, Lever
+Finance and Accounting: Expensify
+Productivity: Clerky, Slack
+For a complete list of software used by Codecademy, check out the Codecademy Stack on Siftery
+
+(Disclaimer: The above data was pulled from Siftery and has been verified by individuals working at
+---
+https://siftery.com/company/codecademy
+to know which company uses what
+for it, marketing, customer support and success, finance and accounting, hr
+---
+show partial data for free user 
+for full feature ask to login, register
+---
+newrow
+ create your online school, and deliver interactive content
+fedena
+--
+company growth, technology stack
+business model
+---
