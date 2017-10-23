@@ -875,3 +875,13 @@ i have to work on my product
  react js -> redux +reactjs -> elm
  ---
  how to start phoenix helloworld tutorial
+ https://www.dailydrip.com/blog?tag=phoenix
+ https://www.uvd.co.uk/blog/hack-week-things-elixir-phoenix-elm-mash/
+
+ ---
+ 
+Eddy
+Developer
+“What an exciting first day to UVD’s first ever hack week! I started off the week with Alex, VJ and Kenny on the Elixir and Docker team. We each had a smallish amount of Elixir experience and are pretty au fait with Docker, so we soon had a new Phoenix 1.3 application bootstrapped and running in a nice containerised environment.
+
+With time of the essence we utilised phoenix generators as much as possible and pretty soon had our first endpoint fully functioning. We managed to add in some pretty powerful tests with ExUnit, a joy in a functional environment, and rounded off the day by adding release generator Distillery, ready to deploy to the cloud tomorrow!”
