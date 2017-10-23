@@ -806,3 +806,29 @@ function googleTranslateElementInit() {
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
 }
+---
+matchers
+matchproduct
+matchhunt
+---
+His name is Adam Rifkin. He's a very successful serial entrepreneur who spends a huge amount of his time helping other people. And his secret weapon is the five-minute favor. Adam said, "You don't have to be Mother Teresa or Gandhi to be a giver. You just have to find small ways to add large value to other people's lives." That could be as simple as making an introduction between two people who could benefit from knowing each other. It could be sharing your knowledge or giving a little bit of feedback. Or It might be even something as basic as saying, "You know, I'm going to try and figure out if I can recognize somebody whose work has gone unnoticed." And those five-minute favors are really critical to helping givers set boundaries and protect themselves.
+---
+Adam Rifkin is co-founder and CEO of PandaWhale, an online community of interesting things and people.
+
+He is also co-founder of a 8000-person network of startup founders and engineers called 106 miles, which meets monthly in Silicon Valley, San Francisco, and Southern California.
+
+From 2005 to 2009, Adam spent most of his time as co-founder and CEO of venture-backed startup Renkoo. 
+---
+https://www.crunchbase.com/person/adam-rifkin
+---
+rubyonrails blog tutorial
+---
+i have to work on my product
+---
+ i am not focusing
+ --
+ i can not do it
+ its boring, but i have to
+ i dont front end
+ i dont how to complete
+ 
