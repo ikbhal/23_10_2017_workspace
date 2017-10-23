@@ -879,9 +879,99 @@ i have to work on my product
  https://www.uvd.co.uk/blog/hack-week-things-elixir-phoenix-elm-mash/
 
  ---
- 
+
 Eddy
 Developer
 “What an exciting first day to UVD’s first ever hack week! I started off the week with Alex, VJ and Kenny on the Elixir and Docker team. We each had a smallish amount of Elixir experience and are pretty au fait with Docker, so we soon had a new Phoenix 1.3 application bootstrapped and running in a nice containerised environment.
 
 With time of the essence we utilised phoenix generators as much as possible and pretty soon had our first endpoint fully functioning. We managed to add in some pretty powerful tests with ExUnit, a joy in a functional environment, and rounded off the day by adding release generator Distillery, ready to deploy to the cloud tomorrow!”
+---
+“Day one of the MEMZ hackathon took the front-end head first into the Elm world: learning the basics of Elm on the web, getting to grips with the language syntax and taking our first stab at implementing HTTP requests. Towards the end of the day we also managed to implement our first route, creating the landing page and the create-event pages.”
+---
+“On the second day of our hack week, I learned how to use The Guardian authentication library, and how to implement JSON Web Tokens for authentication in our application. We also found an Elixir plug, CorsPlug, to add CORS and let our front-end team call our endpoint and test if our authentication was functioning properly. When they gave us the okay, we ended the day by adding slugs to deal with weird inputs.”
+---
+https://hackernoon.com/how-elm-ports-work-with-a-picture-just-one-25144ba43cdd
+https://github.com/rtfeldman/elm-spa-example
+https://github.com/fbonetti/elm-phoenix-socket
+
+https://traefik.io/
+https://aws.amazon.com/ecs/
+https://www.terraform.io/
+https://prometheus.io/
+https://github.com/slok/ecs-exporter
+---
+traefik
+Features
+It’s fast
+No dependency hell, single binary made with go
+Tiny official docker image
+Rest API
+Hot-reloading of configuration. No need to restart the process
+Circuit breakers, retry
+Round Robin, rebalancer load-balancers
+Metrics (Rest, Prometheus, Datadog, Statd)
+Clean AngularJS Web UI
+Websocket, HTTP/2, GRPC ready
+Access Logs (JSON, CLF)
+Let’s Encrypt support (Automatic HTTPS with renewal)
+Proxy Protocol support
+High Availability with cluster mode (beta)
+Supported backends
+Docker / Swarm mode
+Kubernetes
+Mesos / Marathon
+Rancher (API, Metadata)
+Consul / Etcd / Zookeeper / BoltDB
+Eureka
+Amazon ECS
+Amazon DynamoDB
+File
+Rest API
+---
+how to use phoenix react redux tutorial
+https://www.dailydrip.com/blog/how-to-use-phoenix-with-webpack-react-redux
+https://www.dailydrip.com/topics/elixir/drips/introduction-to-elixir
+back to 
+http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/
+---
+We are all set! Go into your application by running:
+
+    $ cd phoenix_elm
+
+Then configure your database in config/dev.exs and run:
+
+    $ mix ecto.create
+
+Start your Phoenix app with:
+
+    $ mix phx.server
+
+You can also run your app inside IEx (Interactive Elixir) as:
+
+    $ iex -S mix phx.server
+
+
+ikbhal@mobi MINGW64 /d/elixir_workspace
+$ mix phoenix.gen.model Contact contacts first_name last_name gender:integer bir                                                                                                                th_date:date location phone_number email headline:text picture
+** (Mix) The task "phoenix.gen.model" could not be found
+
+ikbhal@mobi MINGW64 /d/elixir_workspace
+$ ll
+total 8
+drwxr-xr-x 1 ikbhal 197121 0 Oct 21 13:20 hello/
+drwxr-xr-x 1 ikbhal 197121 0 Oct 23 11:32 phoenix_elm/
+
+ikbhal@mobi MINGW64 /d/elixir_workspace
+$ cd phoenix_elm/
+
+ikbhal@mobi MINGW64 /d/elixir_workspace/phoenix_elm
+$ mix phoenix.gen.model Contact contacts first_name last_name gender:integer bir                                                                                                                th_date:date location phone_number email headline:text picture
+mix phoenix.gen.model is deprecated. Use phx.gen.schema instead.
+* creating web/models/contact.ex
+* creating test/models/contact_test.exs
+* creating priv/repo/migrations/20171023060647_create_contact.exs
+
+Remember to update your repository by running migrations:
+
+    $ mix ecto.migrate
+
