@@ -846,3 +846,32 @@ i have to work on my product
  htttp://omt.tech
  ---
  lets learn elixir + phoenix + elm tutorial
+ ---
+ https://leanpub.com/elixir-elm-tutorial/
+ https://www.gitbook.com/book/bijanbwb/elixir-and-elm-tutorial/details
+ ---
+ elm game tutorial
+ ---
+ what is leanpub
+ --
+ http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/
+ ---
+ https://phoenix-and-elm.herokuapp.com/
+ https://github.com/bigardone/phoenix-and-elm
+
+ BOOM! THE BEST EYE-POPPING, TIME TRAVELLING PERSONALIZED GIFT EVER.
+ https://thebookofeveryone.com/us
+ https://thebookofeveryone.workable.com/
+
+ https://thebookofeveryone.workable.com/j/56ADEDEB90
+ ---
+ elm architecture
+ pet projects
+ elixir
+ passionate , talented team
+
+ elixir + phoenix + elm + postgresql
+
+ react js -> redux +reactjs -> elm
+ ---
+ how to start phoenix helloworld tutorial
