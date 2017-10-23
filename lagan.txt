@@ -212,3 +212,154 @@ automatic animals
 rivers flow
 cloud rain
 ---
+https://www.youtube.com/watch?v=I5L9_cXwBcU
+Keith Salisbury - Building Multiplayer Games with Phoenix and Phaser (ElixirConfEU 2016)
+
+
+https://www.youtube.com/watch?v=lYQ3WwCMTJI
+Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi
+NoSlidesConf
+512 views
+----
+Phaser?
+fun, fast, free html5 game framework
+amazing tutorial, great documentation
+
+pheonix, elixir, erlang, phaser
+
+pixi.js v3?
+super fast Html5 2d rendering engine webgl fall back to canvas
+
+html5?
+offline storage, websocket, webworkers, device access,
+multimedia, graphics and effects, css3
+
+pheonix
+easy - scalable -fast, friendly,  channels, es6/7 ready
+
+elixir
+meta programming, syntax,  macros, tooling
+
+erlang
+semantics, fault tolerant,  scalable, distributed
+
+pixi
+ultra fast, multi platform, multi touch, sprite sheet,
+asset loader,  auto detect, asset loader, auto detect, rich text
+---
+more is better
+different each more with color, shape, sound
+---
+phaser
+preloader, physics, groups, sprites,  camera, particles, input, sound, tile maps 
+scale manager
+---
+javascript game engine
+---
+social stats
+---
+mix pheonix.new demo
+cd demo
+
+install phaser
+mkdir web/static/vendor/js/phaser
+curl -L -o web/static/vendor/js/phaser/phaser.js \
+https://raw.githubusercontent.com/photonstorm/phaser/master/build
+
+Create a game class
+export class Game extends Phaser.Game {
+	// Initialize Phaser
+	constructor(width, height, container) {
+		super(width, height, Phaser.AUTO, container, null)
+	}
+}
+
+---
+create a new game instance
+import  {Game} from "./Game"
+#file: web/static/js/app.js
+
+// Lets go
+new Game(700, 450, "phaser")
+
+---
+set the page template
+web/templates/page/index.html.eex
+<div id="phaser"></div>
+---
+starting up the server
+iex -S mix phoenix.server
+
+---
+games state
+breaks game into smaller pieces
+
+Phaser.state
+---
+github.com/ktec/phoenixphaserdemo
+---
+rocks.globalkeith.com
+elixir conf.eu
+dots.globalkeith.com
+snake.
+.com
+---
+elixir script
+--
+alexia stack
+agents
+---
+functinal javascritp
+ramda.js
+kefir.js
+Elm
+hex package managers
+---
+phaser 3 aka lazer
+
+---
+building multiplayer game with pheonix, phaser
+---
+keith salisbury
+---
+job gap
+4days a work
+fri, satu, sunday holiday, passion day
+---
+constraint view of world donw
+---
+focus broad, you can not achieve
+--
+working full time remote
+---
+sENIOR PSYCHONAUTICS ENGINEER
+https://en.wikipedia.org/wiki/Psychonautics
+---
+https://twitter.com/ktec
+beach, road, hills, green tree
+---
+fidget spinner in space
+continuosly spinning
+move to horizontally left or right
+---
+https://en.wikipedia.org/wiki/Monoid
+---Last 2 days finally taken my client from "Elixir-curious", to 4 Elixir apps (umbrella) in production. Next is React + D3 #myelixirstatus 😍
+umbrella
+---
+medium.com
+cartoonish
+---
+elixir, pheonix & d3
+---
+made a new toy
+--
+poloniex
+---
+exercism.io
+purescript
+elixirldn
+--
+erlang performance lab
+---
+what are you doing
+are you not working on product portfolio
